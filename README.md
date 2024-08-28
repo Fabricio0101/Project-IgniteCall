@@ -1,4 +1,4 @@
-# 📅 Schedule Call
+# 📅 Project Ignite Call
 Schedule Call é um aplicativo de agendamento de reuniões que se integra com o Google Calendar, permitindo que os usuários agendem reuniões apenas nos horários disponíveis definidos pelo administrador.
 
 # 🚀 Tecnologias Utilizadas
